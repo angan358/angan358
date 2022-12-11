@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">
         Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-        I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Mrinmoy Porel!</a>
+        I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Angan Koner!</a>
     </h1>
 </div>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I am currently learning **Backend Development**.
+- 🌱 I am currently learning **Frontend Development**.
 
 - 💬 Ask me about : **Web Dev., Java, Computer Fundamentals**.
 
