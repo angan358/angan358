@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">
         Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-        I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Angan Koner!</a>
+        I'm <a href="https://www.linkedin.com/in/angan358/" target="_blank"> Angan Koner!</a>
     </h1>
 </div>
 
@@ -13,19 +13,19 @@
 
 - 💬 Ask me about : **Web Dev., Java, Computer Fundamentals**.
 
-- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.netlify.app" target="_blank">Visit</a>
+- 👨‍💻 Check out my personal portfolio: <a href="" target="_blank">Visit</a>
 
 <br>
 <br>
 
 # 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/angan358/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="http://twitter.com/mrinnnmoy" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="mailto:mrinmoy202000@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://mrinnnmoy.hashnode.dev/" target="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+<a href="mailto:angankoner358@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://angan.hashnode.dev/" target="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://www.hackerrank.com/mrinnnmoy" target="_blank">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="http://linktr.ee/mrinnnmoy" target="_blank">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
+<a href="http://linktr.ee/angankoner" target="_blank">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
 <br>
 
@@ -62,8 +62,8 @@
 [![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/mrinnnmoy)
   <table align="center">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
-      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=angan358&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
+      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angan358&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
     </tr>
   </table>
 
