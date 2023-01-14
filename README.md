@@ -59,7 +59,7 @@
    
 # 👨‍💻 My GitHub Stats:
 
-[![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/mrinnnmoy)
+[![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=angan358&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358)
   <table align="center">
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=angan358&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
@@ -68,7 +68,7 @@
   </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angan358&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD" /></p>
     
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
     
