@@ -59,7 +59,10 @@
    
 # 👨‍💻 My GitHub Stats:
 
-[![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=angan358&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358)
+<!-- [![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=angan358&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358) -->
+[![Angan's's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angan&bg_color=000000&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358/github-readme-activity-graph)
+
+
   <table align="center">
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=angan358&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
