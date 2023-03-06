@@ -60,13 +60,13 @@
 # 👨‍💻 My GitHub Stats:
 
 <!-- [![ANGAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=angan358&bg_color=0D1117&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358) -->
-[![Angan's's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angan&bg_color=000000&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358/github-readme-activity-graph)
+[![Angan's's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angan358&bg_color=000000&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/angan358/github-readme-activity-graph)
 
 
  <table align="center">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="mrinnnmoy" /></td>
- <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=angan358&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="angan358" /></td>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angan358&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
     </tr>
   </table>
 
